@@ -1,0 +1,1 @@
+Bloc Jams is a digital music application built with vanilla JS and jQuery. It allows users to play different songs with the optional functionality of song pausing, stopping and volume adjustment. The app uses a local song library for data access and has the flexibility to connect to APIs such as Spotify.
